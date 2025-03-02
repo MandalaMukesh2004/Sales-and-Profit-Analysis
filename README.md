@@ -40,6 +40,4 @@ Download and open the first project.pbix file.
 
 Explore the interactive dashboards.
 
-# Dashboard Preview
 
-(Add screenshots of your Power BI dashboard here)
