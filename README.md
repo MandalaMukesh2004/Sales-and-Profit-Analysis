@@ -1,36 +1,45 @@
-# Sales and Profit Analysis
+# Power BI Project: Superstore Sales Analysis
 
-**COMPANY**: CODTECH IT SOLUTIONS
+# Project Overview
 
-**NAME**: MANDALA MUKESH
+This Power BI project analyzes the sales performance of a retail superstore using interactive dashboards. The report provides insights into sales trends, profit distribution, and customer segmentation to support data-driven decision-making.
 
-**INTERN ID**: CT08SHA
+#  Key Insights
 
-**DOMAIN**: POWER-BI
+Sales Trends: Identified seasonal patterns in sales and revenue growth.
 
-**DURATION**: 4 WEEKS
+Top Performing Products: Highlighted the best-selling products and categories.
 
-**MENTOR**: NEELA SANTHOSH
+Regional Performance: Analyzed sales distribution across different regions.
 
-# Overview
-
-This project is a Sales Dashboard created using Power BI from sample data. The dashboard provides key insights into sales performance, revenue trends, customer demographics, and product analytics. It is designed to help stakeholders make data-driven decisions.
+Customer Segments: Classified customers based on purchasing behavior.
 
 # Features
 
-Interactive Visuals: Dynamic charts and graphs for an intuitive experience.
+Interactive Dashboards with filters and slicers.
 
-Sales Performance Analysis: Tracks total revenue, sales by region, and customer segments.
+Data Visualizations including bar charts, line graphs, and maps.
 
-Product Insights: Highlights top-selling products and revenue contribution.
+KPI Metrics such as total sales, profit margins, and average order value.
 
-Time-Based Trends: Monthly and yearly sales trends.
+Drill-through Analysis for deeper insights.
 
-Filters and Slicers: Users can filter data by date, region, product category, and more.
+# Dataset Information
 
-# Data Source
+Dataset: Superstore Sales Data
 
-The dashboard is built using sample sales data.
+File Format: Excel (Sample - Superstore.xls)
 
-Data includes fields such as Order ID, Date, Product Name, Category, Sales Amount, Profit, and Customer Information.
+Key Columns: Order Date, Sales, Profit, Product Category, Customer Segment, Region
 
+# How to Use
+
+Install Power BI Desktop.
+
+Download and open the first project.pbix file.
+
+Explore the interactive dashboards.
+
+# Dashboard Preview
+
+(Add screenshots of your Power BI dashboard here)
