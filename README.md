@@ -6,7 +6,7 @@ This Power BI project analyzes the sales performance of a retail superstore usin
 
 #  Key Insights
 
--Sales Trends: Identified seasonal patterns in sales and revenue growth.
+Sales Trends: Identified seasonal patterns in sales and revenue growth.
 
 Top Performing Products: Highlighted the best-selling products and categories.
 
